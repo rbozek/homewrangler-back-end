@@ -1,6 +1,6 @@
 # 🤠 HomeWrangler 🏡
 
-## Howdy, pardner! This repo is for the back-end server. To view the front-end repo, go [here](https://github.com/rbozek/homewrangler-front-end "homewrangler-front-end GitHub Repo")
+## Howdy, pardner! This repo is for the back-end server. To view the front-end, [GO HERE](https://github.com/rbozek/homewrangler-front-end "homewrangler-front-end GitHub Repo").
 
 ![Logo](/assets/hw-logo-border-white.png)
 
