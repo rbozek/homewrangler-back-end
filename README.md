@@ -31,4 +31,4 @@
 [![Netlify Status](https://api.netlify.com/api/v1/badges/b63fcb9f-8d85-417b-b49e-8514fce38d4b/deploy-status)](https://app.netlify.com/sites/homewrangler/deploys)
 ![Fly.io](https://img.shields.io/badge/Fly.io%20-%20purple)
 
-### [View Planning Materials on Trello](https://trello.com/b/07MzUQgw/homewrangler%F0%9F%A4%A0 "HomeWrangler Trello Board") 🤠📋 (requires Trello account)
+### [View Planning Materials on Trello](https://trello.com/b/07MzUQgw/homewrangler%F0%9F%A4%A0 "HomeWrangler Trello Board") 🤠📋 (requires account)
