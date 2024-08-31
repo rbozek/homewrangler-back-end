@@ -1,8 +1,8 @@
 # 🤠 HomeWrangler 🏡
 
-## Howdy, pardner! Check out [homewrangler-front-end](https://github.com/natnichols/homewrangler-front-end "homewrangler-front-end GitHub Repo") to view the Front-End Repository for HomeWrangler
+## Howdy, pardner! This repo is for the back-end server. To view the front-end repo, go [here](https://github.com/rbozek/homewrangler-front-end "homewrangler-front-end GitHub Repo")
 
-![Placeholder for Logo OR Screenshot of Landing page](/assets/hw-logo-border-white.png)
+![Logo](/assets/hw-logo-border-white.png)
 
 ## Attributions 🎉
 * **Decoupled MERN Stack with JWT Auth Template** is from [GA's SEI Github Repository](https://github.com/SEI-Remote/decoupled-mern-jwt-auth-template-back-end "SEI-Remote Decoupled MERN Stack with JWT Auth Template - Back End GitHub Repo")
@@ -31,4 +31,4 @@
 [![Netlify Status](https://api.netlify.com/api/v1/badges/b63fcb9f-8d85-417b-b49e-8514fce38d4b/deploy-status)](https://app.netlify.com/sites/homewrangler/deploys)
 ![Fly.io](https://img.shields.io/badge/Fly.io%20-%20purple)
 
-### [View our Planning Materials on Trello](https://trello.com/b/07MzUQgw/homewrangler%F0%9F%A4%A0 "HomeWrangler Trello Board") 🤠📋
+### [View Planning Materials on Trello](https://trello.com/b/07MzUQgw/homewrangler%F0%9F%A4%A0 "HomeWrangler Trello Board") 🤠📋 (requires Trello account)
